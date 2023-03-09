@@ -1,0 +1,15 @@
+.App {
+  height: 100vh;
+}
+
+.editor-wrapper {
+  display: flex;
+  flex-grow: 1;
+  padding: 0.5rem;
+  height: 50%;
+  background-color: rgb(56, 56, 56);
+}
+
+.editor {
+  height: 50%;
+}
