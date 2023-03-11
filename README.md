@@ -1,6 +1,6 @@
 # Project Demo
 
-link: (https://nitin6527.github.io/code-editor)[https://nitin6527.github.io/code-editor]
+link: https://nitin6527.github.io/code-editor
 
 # Getting Started with Create React App
 
